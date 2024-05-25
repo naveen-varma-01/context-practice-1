@@ -1,0 +1,42 @@
+/* Write your CSS here */
+.body-cont {
+  display: flex;
+}
+
+.left-cont {
+  background-color: #e2e8f0;
+  height: 100%;
+  padding: 12px;
+}
+
+.content-cont {
+  background-color: #f1f5f9;
+  padding: 12px;
+}
+
+.right-cont {
+  background-color: #e2e8f0;
+  height: 100%;
+  padding: 12px;
+}
+
+.para {
+  color: #64748b;
+}
+
+.head {
+  color: #64748b;
+  font-size: 20px;
+  font-family: 'Roboto';
+}
+
+.ad-cont {
+  height: 70px;
+  width: 60px;
+  border: 2px solid #64748b;
+  margin-bottom: 6px;
+}
+
+.list {
+  list-style-type: none;
+}

@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.main-cont {
+  background-color: #475569;
+  height: 100%;
+  padding: 6px;
+  padding-left: 15px;
+}
+
+.layout {
+  color: #f1f5f9;
+  font-family: 'Roboto';
+}
+
+.inp {
+  color: #f1f5f9;
+}

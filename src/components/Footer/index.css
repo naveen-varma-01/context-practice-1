@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.footer-cont {
+  color: #cbd5e1;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+}
+
+.heading {
+  color: #64748b;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
